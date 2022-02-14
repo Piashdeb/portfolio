@@ -1,10 +1,14 @@
 body {
     font-family: sans-serif;
-    color: #777777;
+    background-color: black;
+    color: wheat;
     line-height: 26px;
 }
 .purple-color {
-    color: #8845f4;
+    color: #000000;
+}
+.purple {
+    color: lightblue;
 }
 
 .half-width{
@@ -16,8 +20,8 @@ body {
     padding-left: 25%;
 }
 .primary-btn {
-    color: white;
-    background-color: #8845f4;
+    color: black;
+    background-color: #f5f5f5;
     padding: 13px 42px;
     border-radius: 20px;
     text-decoration: none;
@@ -32,10 +36,13 @@ h1{
 .experiences {
     padding: 30px;
     margin: 30px;
-    background-color: rgb(238, 251, 255);
+    background-color: rgb(72, 94, 100);
     border-radius: 20px;
 }
 .experience-item {
     padding: 10px;
     border-left: 1px solid rgba(137, 130, 247, .2)
+}
+.copyright{
+    text-align: center;
 }
